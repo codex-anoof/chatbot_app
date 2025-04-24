@@ -33,9 +33,10 @@ def load_bot():
 
     return retriever, qa_chain, llm
 
+# === Load ===
 retriever, qa_chain, fallback_llm = load_bot()
 
-# === UI Styling ===
+# === UI ===
 st.markdown("""
 <style>
 .big-font { font-size:25px !important; font-weight:600; }
