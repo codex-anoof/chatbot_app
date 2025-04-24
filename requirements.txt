@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai==0.8.5
+google-ai-generativelanguage==0.6.16
+PyMuPDF
+faiss-cpu
+pandas
+tqdm
+streamlit
