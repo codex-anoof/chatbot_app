@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 3. Launch the app:
 ```bash
-streamlit run chatbot_app.py
+streamlit run chatbot_app_final.py
 ```
 
 4. Visit the app in your browser at `http://localhost:8501`
